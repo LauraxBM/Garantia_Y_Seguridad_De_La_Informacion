@@ -4,4 +4,4 @@ Asignatura Garantía y Seguridad de la Información del GII de la UVa (Grado en 
 
 <br>
 
-Contiene las prácticas realizadas durante el curso 2022/2023 cursada en 3º de la mención Tecnologías de la Información.
+
