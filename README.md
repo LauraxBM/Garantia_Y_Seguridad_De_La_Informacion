@@ -13,11 +13,13 @@ Se incluye la identificación de bienes, el listado de amenazas y la propuesta d
 ### Cifrado
 
 Qué es un algoritmo hash, cómo funciona, cuáles son sus debilidades, y cómo podemos utilizarlos para comprobar la integridad de los archivos.
+
 <br>
 
 ### Análisis de los servicios en red
 
 Funcionamiento de la herramienta Nmap. Escaneo de vulnerabilidades con OpenVAS. 
+
 <br>
 
 ### Uso de OpenSSL
