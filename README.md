@@ -4,21 +4,23 @@ Asignatura Garantía y Seguridad de la Información del GII de la UVa (Grado en 
 
 <br>
 
-## Análisis de riesgos como parte de un SGSI
+### Análisis de riesgos como parte de un SGSI
 
 Se incluye la identificación de bienes, el listado de amenazas y la propuesta de contramedidas.
 
 <br>
 
-## Cifrado
+### Cifrado
 
 Qué es un algoritmo hash, cómo funciona, cuáles son sus debilidades, y cómo podemos utilizarlos para comprobar la integridad de los archivos.
+<br>
 
-## Análisis de los servicios en red
+### Análisis de los servicios en red
 
 Funcionamiento de la herramienta Nmap. Escaneo de vulnerabilidades con OpenVAS. 
+<br>
 
-## Uso de OpenSSL
+### Uso de OpenSSL
 
 Uso de OpenSSL para cifrado de mensajes y ficheros. 
 
